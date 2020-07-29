@@ -1,0 +1,14 @@
+.box {
+   
+    color: #fff;
+    background: rgb(30, 125, 156);
+  }
+  .no-wrap-text {
+    overflow: hidden;
+  }
+
+body {background-color: rgb(193, 206, 211)}
+
+  .navbar-brand {
+    font-size: 35px;
+  }
